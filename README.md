@@ -3,7 +3,7 @@ All the cheat sheets I have made for several programming languages, as well as s
 
 ## Programming Languages/Technologies
 * [Java](/Programming_Languages/Java.pdf)
-* [Haskell (in the form of a .hs file since I used this in an exam and it was convenient)](/Programming_Languages/Haskell.hs)
+* [Haskell (in the form of a .hs file since I was allowed to bring this into an exam and it was convenient)](/Programming_Languages/Haskell.hs)
 * [Git/CMD](/Programming_Languages/Git_and_CMD.pdf)
 * [MIPS Assembly](/Programming_Languages/MIPS.pdf)
 
